@@ -1,2 +1,2 @@
 # GitHub.branch
-This is my git Repository.
+This is my first git Repository.
